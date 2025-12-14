@@ -134,3 +134,4 @@ style K fill:#98fb98
     - 지정된 PO
 
 ### 3. 백로그 심화 리뷰하기
+는 backlog-indepth-review를 참고
